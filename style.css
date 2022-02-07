@@ -1,0 +1,19 @@
+body{
+ background:linear-gradient(purple,violet);
+ text-align: center;
+ color: lawngreen;
+}
+p{
+    width: 100%;
+    font-size: 22px;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    padding: 15px;
+}
+.nombre_objetos, #nombre_obj_iden, #precicion_obj_iden{
+ font-size: 18px;
+ color: rgb(235, 252, 0);
+}
+#camera, #result { border: 2px dashed rgba(19, 31, 143, 0.849); width: 350px; height: 300px; }
